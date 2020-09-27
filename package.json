@@ -10,7 +10,7 @@
     "dva": "^2.4.1",
     "dxc-flex": "^3.0.2",
     "dxc-input": "^0.1.8",
-    "dxc-upload": "^1.0.3",
+    "dxc-upload": "^1.0.5",
     "fs-alert": "^0.3.0",
     "qq-share": "^1.0.1",
     "react": "^16.13.1",

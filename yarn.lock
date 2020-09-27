@@ -1760,7 +1760,7 @@ binary-extensions@^1.0.0:
   version "1.11.0"
   resolved "https://registry.yarnpkg.com/binary-extensions/-/binary-extensions-1.11.0.tgz#46aa1751fb6a2f93ee5e689bb1087d4b14c6c205"
 
-bluebird@^3.4.7, bluebird@^3.5.0, bluebird@^3.5.1:
+bluebird@^3.4.7, bluebird@^3.5.1:
   version "3.5.1"
   resolved "https://registry.yarnpkg.com/bluebird/-/bluebird-3.5.1.tgz#d9551f9de98f1fcda1e683d17ee91a0602ee2eb9"
 
@@ -3179,11 +3179,9 @@ dxc-input@^0.1.5, dxc-input@^0.1.8:
     antd-mobile "^2.1.5"
     dxc-flex "^1.0.1"
 
-dxc-upload@^1.0.3:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/dxc-upload/-/dxc-upload-1.0.3.tgz#8deb82e97812536553c8e7db1ddf2e8d5b0ddd31"
-  dependencies:
-    bluebird "^3.5.0"
+dxc-upload@^1.0.5:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/dxc-upload/-/dxc-upload-1.0.5.tgz#30fe5f47467be2cc29bba457826ac70ae4261e8a"
 
 ecc-jsbn@~0.1.1:
   version "0.1.1"
