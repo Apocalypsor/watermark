@@ -14,7 +14,7 @@
     "fs-alert": "^0.3.0",
     "qq-share": "^1.0.1",
     "react": "^16.13.1",
-    "react-color": "^2.14.1",
+    "react-color": "^2.18.1",
     "react-dom": "^16.2.0"
   },
   "devDependencies": {
