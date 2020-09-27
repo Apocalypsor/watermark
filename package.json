@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "dva": "^2.4.1",
-    "dxc-flex": "^1.0.3",
+    "dxc-flex": "^3.0.2",
     "dxc-input": "^0.1.8",
     "dxc-upload": "^1.0.3",
     "fs-alert": "^0.3.0",

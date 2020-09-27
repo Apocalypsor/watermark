@@ -3089,6 +3089,10 @@ dxc-flex@^1.0.1, dxc-flex@^1.0.3:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/dxc-flex/-/dxc-flex-1.0.3.tgz#60fc3951427aec65e7904a85bccfa72c6a218a70"
 
+dxc-flex@^3.0.2:
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/dxc-flex/-/dxc-flex-3.0.2.tgz#450da17320e84a361b0253b480eb60e8f5bfe010"
+
 dxc-input@^0.1.5, dxc-input@^0.1.8:
   version "0.1.8"
   resolved "https://registry.yarnpkg.com/dxc-input/-/dxc-input-0.1.8.tgz#7e394edeb7b69934287d22d893f09cfd2717cad2"
