@@ -1,3 +1,10 @@
-{
-  "extends": "umi"
-}
+module.exports = {
+  extends: [
+    'umi'
+  ],
+  settings: {
+    react: {
+      version: 'detect',
+    },
+  },
+};
