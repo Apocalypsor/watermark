@@ -1,10 +1,11 @@
-module.exports = {
-  extends: [
-    'umi'
-  ],
-  settings: {
-    react: {
-      version: 'detect',
-    },
-  },
-};
+{
+  "extends": "umi",
+  "settings": {
+      "react": {
+          "version": "detect"
+       }
+   },
+  "rules": {
+      "jsx-a11y/href-no-hash": "off"
+  }
+}
