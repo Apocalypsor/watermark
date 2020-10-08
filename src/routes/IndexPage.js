@@ -24,6 +24,7 @@ export default class IndexPage extends React.Component {
         </Block>
         <Block style={{ margin: "15px 0" }} horizontal="center">
           在各种证件上添加“仅用于办理XXXX，他用无效。”，防止证件被他人盗用！
+        </Block>
         <Main />
       </div>
     );
