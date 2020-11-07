@@ -19,7 +19,7 @@
   },
   "devDependencies": {
     "babel-plugin-dva-hmr": "^0.4.2",
-    "eslint": "^7.12.1",
+    "eslint": "^7.13.0",
     "eslint-config-umi": "^1.4.5",
     "eslint-plugin-flowtype": "^2.50.3",
     "eslint-plugin-import": "^2.22.1",
