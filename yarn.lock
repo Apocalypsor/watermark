@@ -3229,9 +3229,9 @@ dxc-flex@^3.0.2:
   version "3.0.2"
   resolved "https://registry.yarnpkg.com/dxc-flex/-/dxc-flex-3.0.2.tgz#450da17320e84a361b0253b480eb60e8f5bfe010"
 
-dxc-input@^0.1.5, dxc-input@^0.1.8:
-  version "0.1.8"
-  resolved "https://registry.yarnpkg.com/dxc-input/-/dxc-input-0.1.8.tgz#7e394edeb7b69934287d22d893f09cfd2717cad2"
+dxc-input@^0.1.5, dxc-input@^0.1.9:
+  version "0.1.9"
+  resolved "https://registry.yarnpkg.com/dxc-input/-/dxc-input-0.1.9.tgz#5be048dd0cc7a535dde6040bea8e214cee06b7a5"
   dependencies:
     antd-mobile "^2.1.5"
     dxc-flex "^1.0.1"
