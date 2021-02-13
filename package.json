@@ -15,7 +15,7 @@
     "qq-share": "^1.0.1",
     "react": "^17.0.1",
     "react-color": "^2.19.3",
-    "react-dom": "^16.14.0"
+    "react-dom": "^17.0.1"
   },
   "devDependencies": {
     "babel-plugin-dva-hmr": "^0.4.2",
